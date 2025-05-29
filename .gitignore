@@ -136,6 +136,7 @@ extras/data/*
 # Data files
 data/10_whole_foods*
 data/FashionMNIST
+data.MNIST
 data/10_whole_foods*
 data/food*
 data/pizza_steak_sushi/*
